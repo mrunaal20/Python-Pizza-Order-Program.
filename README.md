@@ -1,14 +1,14 @@
 # Python-Pizza-Order-Program.
 Based on a user's order, it will give the final bill.
 
-Small Pizza: $15
+Small Pizza: RS100
 
-Medium Pizza: $20
+Medium Pizza: Rs150
 
-Large Pizza: $25
+Large Pizza: Rs200
 
-Pepperoni for Small Pizza: +$2
+Pepperoni for Small Pizza: +Rs20
 
-Pepperoni for Medium or Large Pizza: +$3
+Pepperoni for Medium or Large Pizza: +Rs30
 
-Extra cheese for any size pizza: + $1
+Extra cheese for any size pizza: + Rs10
